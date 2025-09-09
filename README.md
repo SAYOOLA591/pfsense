@@ -41,7 +41,7 @@ Change into the forwarder binary, switch to the splunkforwarder user, start it, 
 
 ### Point this UF to the Splunk indexer
 
-![splunkfwd-indexer](https://github.com/user-attachments/assets/86f1c1e5-b2a3-4907-8231-0df267c34709)
+![splunkfwd-indexer](https://github.com/user-attachments/assets/804592e5-2180-42b3-8ac5-98672472f0e0)
 
 # Splunk Inputs Configuration
 
